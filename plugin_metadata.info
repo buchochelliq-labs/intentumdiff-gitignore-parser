@@ -1,0 +1,13 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-07-07
+
+[language.gitignore]
+language_name = Ignore file
+language_short_name = Ignore
+monaco_language = ignore
+default_filename = .gitignore
+language_file_extensions = .gitignore,.dockerignore,.npmignore,.eslintignore,.prettierignore,.helmignore,.gcloudignore
